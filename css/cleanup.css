@@ -8,13 +8,13 @@ div#wall div#tag-2 {
 }
 
 div#wall #tag-3.slick {
-  display: none; 
+  display: none;
 }
 
 div#wall div.parent div#tag-4 {
   display: none;
 }
 
-div#wall div#tag-5, #tag-6, #tag-7  {
+div#wall .parent #tag-5.slick{
   display: none;
 }
